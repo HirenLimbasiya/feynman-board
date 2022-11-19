@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/feynmanboard/static/css/main.b15fb869.css",
+    "main.js": "/feynmanboard/static/js/main.23be8405.js",
+    "index.html": "/feynmanboard/index.html",
+    "main.b15fb869.css.map": "/feynmanboard/static/css/main.b15fb869.css.map",
+    "main.23be8405.js.map": "/feynmanboard/static/js/main.23be8405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b15fb869.css",
+    "static/js/main.23be8405.js"
+  ]
+}
